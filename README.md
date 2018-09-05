@@ -24,3 +24,4 @@ There are several steps included:
      c To get the points in each of the discrete distance bands I used the over() function from rgeos or point.in.poly() from spatialEco.
      
      d The location of the points within these boundaries is defined as 'Status'
+ ## still under construction ##
